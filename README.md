@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anter</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/mohamedanter199" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedanter199?logo=twitter&style=for-the-badge" alt="mohamedanter199" /></a> </p>
 
